@@ -11,8 +11,15 @@ HTML/JavaScript/CSS
 http://htmlpreview.github.com/?https://github.com/SandyGlantz/TA/blob/master/jsQ/PizzaOrderProject/PizzaVersion1/PFC_index.html
 
 
+Current project, Bite of East County, info here:
+https://github.com/SandyGlantz/BiteofEastCounty/blob/master/README.md
+
+
 Still lots to do on this:
 https://github.com/SandyGlantz/TA/blob/master/jsQ/PizzaOrderProject/PizzaVersion1/ReadMe.md
+
+
+
 
 
 

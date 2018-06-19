@@ -1,8 +1,7 @@
 # Portfolio
-Overview with quick links to code and projects
+Overview with quick links to code and projects ... a work in progress!
 
 
-This is a work in progress ...
 Links need to be embedded and cleaned up here ...
 
 

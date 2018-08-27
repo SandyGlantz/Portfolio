@@ -4,6 +4,7 @@ Overview with quick links to code and projects ... a work in progress!
 A true learning experience involved losing almost all my GitHub activity prior to December 2017.  There was a lot of activity too (sigh ...).  Fortunately, all my files were backed up so there was no data loss - just losing all those little greeen activity squares was not my intention.
 
 
+---
 
 Fun stuff first; Pizza For Cats:
 
